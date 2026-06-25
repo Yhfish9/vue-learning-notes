@@ -1,6 +1,13 @@
-node_modules/
-dist/
-.vite/
+*
+!.gitignore
+!vue2-project/
+!vue2-project/**
+!vue3-learning-project/
+!vue3-learning-project/**
+
+**/node_modules/
+**/dist/
+**/.vite/
 .DS_Store
 npm-debug.log*
 yarn-debug.log*
